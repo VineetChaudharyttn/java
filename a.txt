@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello this is stash testing
+=======
+test file changed
+>>>>>>> vineet
